@@ -1,0 +1,6 @@
+# Known Issues
+
+* Sometimes, the wallet displays "Latest block not found". The message can appear while the client is synchronizing with the blockchain. In the background, the wallet will begin a controlled retry and continue until the client overcomes the issue. The process will continue until the blockchain is fully synchronized and Mantis is working correctly.
+
+This issue is only visible to wallet users.  
+The fault is in the client, and the client will be corrected.
