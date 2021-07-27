@@ -1,5 +1,7 @@
 site_name: Mantis Docs
-site_url: https://example.com/
+site_url: stevanlohja.github.io/mantis-docs-v2-preview/
+site_url: https://github.com/stevanlohja/mantis-docs-v2-preview
+repo_name: stevanlohja/mantis-docs-v2-preview
 
 theme:
   name: material
