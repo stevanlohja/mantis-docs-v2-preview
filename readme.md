@@ -3,6 +3,7 @@
 Mantis docs is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## Local Development
+
 ### Install Dependencies
 
 Install mkdocs-material:
