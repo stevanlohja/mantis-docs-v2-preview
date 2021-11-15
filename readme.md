@@ -1,6 +1,6 @@
-# Mantis Docs
+# Mamba Docs
 
-Mantis docs is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+Mamba docs is powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 ## Local Development
 
